@@ -1,0 +1,11 @@
+fecha,descripcion,monto,tipo_movimiento
+2024-11-01,Venta de productos electrónicos,1200.50,Ingreso
+2024-11-02,Pago a proveedores de materia prima,800.75,Egreso
+2024-11-03,Ingreso por servicios técnicos,450.00,Ingreso
+2024-11-04,Compra de equipos de oficina,300.25,Egreso
+2024-11-05,Pago de alquiler de local,900.00,Egreso
+2024-11-06,Venta de accesorios tecnológicos,1500.00,Ingreso
+2024-11-07,Pago de servicios básicos,200.00,Egreso
+2024-11-08,Ingreso por asesorías empresariales,1000.00,Ingreso
+2024-11-09,Compra de inventario,700.00,Egreso
+2024-11-10,Ingreso por proyectos especiales,1800.00,Ingreso
